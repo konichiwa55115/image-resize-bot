@@ -10,7 +10,7 @@ import time
 handled_updates = []
 
 try:
-    BOT_TOKEN = os.environ['BOT_TOKEN']
+    BOT_TOKEN = "5998737564:AAH19LlVDCRzXYv0T6UDgEDL36wwmwUxNGc"
 except KeyError:
     BOT_TOKEN = sys.argv[1]
 
